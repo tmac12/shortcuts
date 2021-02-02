@@ -1,0 +1,36 @@
+https://code.visualstudio.com/docs/getstarted/tips-and-tricks 
+
+ 
+
+| **Shortcut**                | **Description**                                                                                             |
+|-----------------------------|-------------------------------------------------------------------------------------------------------------|
+| CTRL+SHIFT+P                | Open settings editor                                                                                        |
+| CTRL+K M                    | Cambia language Mode                                                                                        |
+| ALT+SHIFT+KEY DOWN          | Duplica la riga selezionata                                                                                 |
+| CTRL+SHIFT+K                | Elimina riga                                                                                                |
+| CTRL+ù                      | Commenta riga                                                                                               |
+| CTRL + \\                   | Side by side editing                                                                                        |
+| CRTL +K; CRTL +S            | Keyboard shortcuts                                                                                          |
+|                             |                                                                                                             |
+| Selection                   |                                                                                                             |
+| CTRL+MAIUSC+ALT             | Seleziona colonna                                                                                           |
+| SHIFT+ALT+RIGHT/LEFT ARROW  | Advanced selection. Select more chars than CTLR+ALT+ARROW                                                   |
+| CTLR+ALT+UP/DOWN ARROW      | Add cursor up/down                                                                                          |
+| ALT+CLICK                   | Add cursor anywhere                                                                                         |
+| CTRL+SHIFT+L                | After a selection replace all instances                                                                     |
+| CTRL + D                    | Multi-caret selection.                                                                                      |
+| SHIFT + ALT + I             | The command Selection / Add Cursors to Line Ends will put a cursor on every line in the current selection.  |
+|                             |                                                                                                             |
+| Format                      |                                                                                                             |
+| SHIFT+ALT+F                 | Format all document                                                                                         |
+| CTRL+SHIFT+'                | Collapse code                                                                                               |
+| CTRL+SHIFT+ì                | Expand code                                                                                                 |
+| F8                          | Navigate in errors                                                                                          |
+|                             |                                                                                                             |
+| Snippets                    |                                                                                                             |
+| Trycatch + TAB              | Enable snippet try{}catch{}                                                                                 |
+|                             |                                                                                                             |
+
+ 
+
+ 
