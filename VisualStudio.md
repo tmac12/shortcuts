@@ -11,6 +11,7 @@
 |                                                   |                                                                                                                   |
 | Class                                             |                                                                                                                   |
 | Prop TAB TAB                                      | Aggiunta property get set                                                                                         |
+| ctor                                              | Genera costruttore                                                                                                |
 |                                                   |                                                                                                                   |
 | Selection                                         |                                                                                                                   |
 | ALT + SHIFT + .                                   | Multi-caret selection                                                                                             |
